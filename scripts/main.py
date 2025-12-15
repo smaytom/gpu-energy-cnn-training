@@ -2,7 +2,6 @@
 import time
 from dataclasses import dataclass, asdict
 import json
-from dataclasses import asdict
 from pathlib import Path
 from src.data import get_cifar10_loaders
 from src.experiment import run_experiment
