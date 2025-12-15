@@ -30,7 +30,6 @@ These findings are discussed in detail in the accompanying report.
 
 # Repository Structure
 ```text
-.
 ├── src/
 │   ├── data.py            # CIFAR-10 loading and preprocessing
 │   ├── model.py           # CNN architecture definition
