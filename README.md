@@ -13,7 +13,7 @@ Key notions addressed:
 - How increased CNN channel width/depth affects accuracy, loss convergence, and energy use
 - The benefits and detriments of mixed-precision on lightweight CNN architectures
 - The optomisation of energy-accuracy metrics by altering width and precision modes
-- 
+
 Experiments are conducted on a lightweight CNN trained on CIFAR-10 using PyTorch, with energy estimated from training time under a fixed GPU power envelope (NVIDIA T4, 70W).
 
 # Summary of Findings:
